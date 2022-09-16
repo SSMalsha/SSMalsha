@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malsha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssmalsha" alt="ssmalsha" /></a> </p>
 
+<img aline="left" alt= "coding" width="400" src="https://bl.ocks.org/lqb2/raw/48e43ee11e8f5b00542a/75348d50e4a4516469287d0ca2e1a5a69cee07f6/forkit.gif">
+
 <p align="left"> <a href="https://twitter.com/malsha10" target="blank"><img src="https://img.shields.io/twitter/follow/malsha10?logo=twitter&style=for-the-badge" alt="malsha10" /></a> </p>
 
 - 🔭 I’m currently working on **BloodCare and ekzamen**
