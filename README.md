@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malsha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssmalsha" alt="ssmalsha" /></a> </p>
 
-<img aline="right" alt= "coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
+<img aline="right" alt= "coding" width="400" src="https://octodex.github.com/images/femalecodertocat.png">
 
 <p align="left"> <a href="https://twitter.com/malsha10" target="blank"><img src="https://img.shields.io/twitter/follow/malsha10?logo=twitter&style=for-the-badge" alt="malsha10" /></a> </p>
 
