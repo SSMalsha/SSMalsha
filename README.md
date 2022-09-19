@@ -15,14 +15,14 @@
 
 - 📫 How to reach me **sandunisudusinghe98@gmail.com**
 
-- ⚡ Fun fact **Let's meeting the heaven**
+- ⚡ Fun fact **Let's meet in heaven**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/malsha10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malsha10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/malsha sudusinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malsha sudusinghe" height="30" width="40" /></a>
-<a href="https://fb.com/malsha sudusinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malsha sudusinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/malsha sudusinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malsha sudusinghe" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/malsha sudusinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malsha sudusinghe" height="30" width="40" /></a> 
+<a href="https://instagram.com/malsha sudusinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malsha sudusinghe" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/sandunisudusing1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandunisudusing1" height="30" width="40" /></a>
 </p>
 
